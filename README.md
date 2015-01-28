@@ -1,3 +1,4 @@
-= First Ruby on Rails Application
+First Ruby on Rails Application
+===
 
 Rails Self-Learning Tutorial #1
